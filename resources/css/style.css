@@ -396,6 +396,7 @@ footer span {
 	.logo span, .course-container img, .course-info p, footer nav {
 		display: none;
 	}
+
 	.course-container {
 		width: 100%;
 		margin-top: 0;
